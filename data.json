@@ -1,0 +1,14 @@
+{
+    "courses":[
+        { 
+            "id":1,
+            "title":"node js",
+            "autor":"cristian"
+        },
+        { 
+            "id":2,
+            "title":"node js",
+            "autor":"david"
+        }
+    ]
+}
